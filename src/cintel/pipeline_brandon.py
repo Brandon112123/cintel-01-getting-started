@@ -1,5 +1,5 @@
 """
-pipeline_case.py - Project script (example).
+pipeline_brandon.py - Project script (example).
 
 Author: Brandon Smith
 Date: 2026-03-13
