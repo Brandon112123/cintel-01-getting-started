@@ -120,4 +120,5 @@ git push -u origin main
 ## Professional Modification
 
 What I changed
-changed output from "pipline executed succesfully!" to "pipeline executed successfully, no errors at this time".
+
+- Changed output from "pipeline executed successfully!" to "pipeline executed successfully, no errors at this time".
