@@ -57,7 +57,7 @@ running on your machine, and running the example will print out:
 
 ```shell
 ========================
-Pipeline executed successfully, no errors at this time
+Pipeline executed successfully!
 ========================
 ```
 
@@ -122,3 +122,4 @@ git push -u origin main
 What I changed
 
 - Changed output from "pipeline executed successfully!" to "pipeline executed successfully, no errors at this time".
+- added a condition else: LOG.info("Script was imported as a module.")

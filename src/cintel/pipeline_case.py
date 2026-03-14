@@ -9,7 +9,7 @@ Purpose:
   Run this script to see a log message in the terminal.
 
 Run as a Module:
-  uv run python -m cintel.pipeline_brandon
+  uv run python -m cintel.pipeline_case
 """
 
 # === DECLARE IMPORTS ===
@@ -49,7 +49,7 @@ def main() -> None:
     log_path(LOG, "DOCS_DIR", DOCS_DIR)
 
     LOG.info("========================")
-    LOG.info("Pipeline executed successfully, no errors at this time.")
+    LOG.info("Pipeline executed successfully!")
     LOG.info("========================")
     LOG.info("END main()")
 
